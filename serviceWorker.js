@@ -11,7 +11,7 @@ self.addEventListener('install', e =>{
           'assets/img/js.jpg',
           'assets/img/logo.png',
           'assets/img/slide.png',
-          //'assets/video/movie.mp4'
+          'assets/video/movie.mp4'
       ])
         
   });
