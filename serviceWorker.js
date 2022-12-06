@@ -3,7 +3,6 @@ self.addEventListener('install', e =>{
       .then(cache => {
           return cache.addAll([
           '/',
-          '.hintrc',
           'index.html',
           'styles/style.css',
           'assets/img/css3.png',
